@@ -1,0 +1,9 @@
+Oto zadanie domowe
+Komendy jakie bêd¹ potrzebne do korzystania z gita
+-mkdir nazwa_katalogu -tworzy nowy katalog (make directory)
+-cd nazwa_katalogu -wchodzi do danego katalogu
+-git init - tworzy w bie¿¹cej lokalizacji repozytorium .git
+-touch <nazwa> -tworzy nowy plik
+-ls -all -pokazuje wszystkie pliki i foldery w biezacej lokalizacji
+-git add <nazwa> lub git add . - dodaje do przechowalni wybrany plik <nazwa> lub wszystkie zmienione pliki
+-git commit - zapisuje zmiany wrzucone do przechowalni
