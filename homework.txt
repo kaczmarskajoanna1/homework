@@ -7,3 +7,4 @@ Komendy jakie bêd¹ potrzebne do korzystania z gita
 -ls -all -pokazuje wszystkie pliki i foldery w biezacej lokalizacji
 -git add <nazwa> lub git add . - dodaje do przechowalni wybrany plik <nazwa> lub wszystkie zmienione pliki
 -git commit - zapisuje zmiany wrzucone do przechowalni
+zmiany zmiany
