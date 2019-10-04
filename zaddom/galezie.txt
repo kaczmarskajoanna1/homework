@@ -1,3 +1,6 @@
 w galeziach pracujemy nad pojedynczymi funkcjonalnosciami 
 
 a teraz dokonujemy zmiany na galezi master
+
+zobaczmy co sie stanie gdy dokonamy zmiany na nowej galezi
+
