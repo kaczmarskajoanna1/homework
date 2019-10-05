@@ -8,3 +8,9 @@ Komendy jakie bêd¹ potrzebne do korzystania z gita
 -git add <nazwa> lub git add . - dodaje do przechowalni wybrany plik <nazwa> lub wszystkie zmienione pliki
 -git commit - zapisuje zmiany wrzucone do przechowalni
 zmiany zmiany
+
+
+sprawdŸmy dzia³anie difftool
+przed add .?
+
+a teraz czy zrobi nam sie push
